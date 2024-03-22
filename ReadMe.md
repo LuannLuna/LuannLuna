@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm currently working on PETZ App, an environment developed for tutors of pets. <br> 🔭 I’m currently looking for a remote job outside Brazil. <br>👯  I'm looking to collaborate on projects using SwiftUI, and the best iOS architecture patterns<br>🌱 I'm currently learning the best Architecture Patterns for iOS development<br>⚡ Fun fact: I've worked on lots of kinds of apps, such as e-commerce, news, banks, restaurants, and so on. 
+👨🏻‍💻 I'm currently working on PETZ App, an environment developed for tutors of pets. <br> 🔭 I’m currently looking for a remote job outside Brazil. <br>👯  I'm looking to collaborate on projects using SwiftUI, and the best iOS architecture patterns<br>🌱 I'm currently learning the best Architecture Patterns for iOS development<br>⚡ Fun fact: I'm a pet lover too 😆
 
 
 ## 🌐 Socials:
